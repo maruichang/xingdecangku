@@ -10,4 +10,10 @@ public class TextDome1 {
 
         System.out.println("来啊");
     }
+    public void sect2(){
+
+        System.out.println("来啊");
+    }
+
+
 }
