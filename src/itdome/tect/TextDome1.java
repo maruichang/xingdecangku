@@ -6,4 +6,8 @@ public class TextDome1 {
         System.out.println("相互转发");
         System.out.println("相互转发");
     }
+    public void sect(){
+
+        System.out.println("来啊");
+    }
 }
